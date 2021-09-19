@@ -56,6 +56,8 @@ a:active {
   color: palevioletred;
   font-size: 10px;
 }
+/* I ended up just using colors readily available rather than searching for the hex codes. And "palevioletred" sounds kind of exciting.
+I'm going to do some research to find out if there is a reason behind all the hex codes seeming like a random assortment of letters and numbers. */
  
 header h1 {
   font-family: 'Helvetica', sans-serif;
