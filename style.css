@@ -23,6 +23,7 @@ footer div {
   color: white;
   padding-left: 30px;
 }
+/* I liked working with the images. I originally had a few more. But it ended up looking very crowded.*/
 
 img {
 max-width: 50%;  
@@ -32,6 +33,9 @@ border-radius: 50%;
 box-shadow: 0px 0px 5px black;
 margin: 5px;
 }
+
+/* I had a hard time with these pseudo-class links at first. They were enormous even though the footer was set for 10px. 
+But putting the font-size in each pseudo-coss seemed to work out.*/
 
 a:link {
   color: pink;
