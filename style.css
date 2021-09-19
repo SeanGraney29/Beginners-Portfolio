@@ -39,22 +39,22 @@ But putting the font-size in each pseudo-coss seemed to work out.*/
 
 a:link {
   color: pink;
-  font-size: 10px;
+  font-size: 25px;
 }
 
 a:visited {
 color: gray;
-font-size: 10px;
+font-size: 25px;
 }
 
 a:hover {
   color: lightblue;
-  font-size: 15px;
+  font-size: 30px;
 }
 
 a:active {
   color: palevioletred;
-  font-size: 10px;
+  font-size: 25px;
 }
 /* I ended up just using colors readily available rather than searching for the hex codes. And "palevioletred" sounds kind of exciting.
 I'm going to do some research to find out if there is a reason behind all the hex codes seeming like a random assortment of letters and numbers. */
