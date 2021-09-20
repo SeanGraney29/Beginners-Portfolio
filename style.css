@@ -43,7 +43,7 @@ margin: 5px;
 But putting the font-size in each pseudo-coss seemed to work out.*/
 
 a:link {
-  color: rgb(155, 5, 130);
+  color: brightblue;
   font-size: 25px;
 }
 
@@ -53,7 +53,7 @@ font-size: 25px;
 }
 
 a:hover {
-  color: lightblue;
+  color: aqua;
   font-size: 27px;
 }
 
