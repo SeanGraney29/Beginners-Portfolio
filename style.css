@@ -27,7 +27,7 @@ footer div {
   font-size: 10px;
   color: white;
   padding-right: 30px;
-  padding-left:30px;
+    text-align: right;
 }
 /* I liked working with the images. I originally had a few more. But it ended up looking very crowded.*/
 
@@ -46,26 +46,23 @@ But putting the font-size in each pseudo-coss seemed to work out.*/
 a:link {
   color: brightblue;
   font-size: 25px;
-  text-align: right;
 }
 
 a:visited {
   color: gray;
   font-size: 25px;
-  text-align: right;
 }
 
 a:hover {
   color: aqua;
   font-size: 27px;
-  text-align: right;
 }
 
 a:active {
   color: palevioletred;
   font-size: 25px;
- text-align: right;
 }
+
 /* I ended up just using colors readily available rather than searching for the hex codes. And "palevioletred" sounds kind of exciting.
 I'm going to do some research to find out if there is a reason behind all the hex codes seeming like a random assortment of letters and numbers. */
  
