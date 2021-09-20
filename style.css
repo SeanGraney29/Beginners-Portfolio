@@ -43,7 +43,7 @@ margin: 5px;
 But putting the font-size in each pseudo-coss seemed to work out.*/
 
 a:link {
-  color: pink;
+  color: rgb(155, 5, 130);
   font-size: 25px;
 }
 
